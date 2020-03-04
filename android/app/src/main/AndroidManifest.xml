@@ -30,6 +30,6 @@
             android:name="flutterEmbedding"
             android:value="2" />
 
-        <activity android:name="com.example.flutter_qr.ScannerActivity"/>
+        <activity android:name="com.apptreesoftware.barcodescan.BarcodeScannerActivity"/>
     </application>
 </manifest>
